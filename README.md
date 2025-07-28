@@ -13,6 +13,7 @@
 
 <li>Spring Data JPA</li>
 
+
 <li>Flyway Migration</li>
 
 <li>MySQL Driver</li>
@@ -24,4 +25,4 @@
 <br>
 
 <h4>Api documentada con swagger</h4>
-<img width="1731" height="1851" alt="diagrama_base_de_datos_forohub" src="https://github.com/user-attachments/assets/179e3dad-7f5d-48db-b2b5-a5e3b1e749af" />
+<img width="941" height="433" alt="apiSpringBoot" src="https://github.com/user-attachments/assets/620ffc30-5047-4c44-97d8-567fd0107073" />
